@@ -1,2 +1,1 @@
-# Sudoku game
- 
+This is Sudoku reolver using Constraint Satisfaction with backtracking and Simulated Annealing
